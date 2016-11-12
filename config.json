@@ -1,9 +1,0 @@
-{
-  "port": 3002,
-  "feed": {
-    "title": "IT-Events in ",
-    "subtitle": "Event Feed for city",
-    "url": "http://localhost:3000/",
-    "author": "sillyslux"
-  }
-}
