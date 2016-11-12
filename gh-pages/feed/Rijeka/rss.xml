@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IT-Events in Rijeka</title>
+    <link>http://localhost:3000/</link>
+    <atom:link href="undefined" rel="self" type="application/rss+xml"/>
+    
+    <description>Event Feed for city Rijeka</description>
+    <pubDate>2016-10-27T09:59:40.103Z</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2016-04-11 10:00 Inspire Me</title>
+      <link>http://localhost:3000/Rijeka/1460361600000</link>
+      <guid>urn:uuid:cad1a6d6-e417-88fb-9011-fae34b1aaf8e</guid>
+      <pubDate>Thu, 27 Oct 2016 09:56:53 GMT</pubDate>
+      <description>
+      
+        &lt;b&gt;Inspire Me&lt;/b&gt; predstavlja jedinstvenu konferenciju u kojoj uspješni pojedinci iz različitih područja sa sudionicima dijele svoje ideje, znanja te životna i poslovna iskustva. Konferencija će na jednom mjestu okupiti veliki broj studenata, mladih, poduzetnika, profesionalaca i menadžera koji će se kroz program upoznati s temama vezanim za razvoj karijere, poduzetništvo, inovacije, tehnologiju, motivaciju i uspjeh.
+      
+      </description>
+      
+      <content:encoded><![CDATA[<style>*{white-space:pre;}</style><b>Inspire Me</b> predstavlja jedinstvenu konferenciju u kojoj uspješni pojedinci iz različitih područja sa sudionicima dijele svoje ideje, znanja te životna i poslovna iskustva. Konferencija će na jednom mjestu okupiti veliki broj studenata, mladih, poduzetnika, profesionalaca i menadžera koji će se kroz program upoznati s temama vezanim za razvoj karijere, poduzetništvo, inovacije, tehnologiju, motivaciju i uspjeh.]]></content:encoded>
+      
+      
+    </item>
+    
+    <item>
+      <title>2016-10-20 18:00 2. WordPress Meetup Rijeka</title>
+      <link>http://localhost:3000/Rijeka/1476979200000</link>
+      <guid>urn:uuid:7fc62f72-1aab-bd6c-d498-db81b1676f47</guid>
+      <pubDate>Thu, 27 Oct 2016 09:59:40 GMT</pubDate>
+      <description>
+      
+        Nakon poduže stanke, sa veseljem najavljujemo 2. WordPress Meetup Rijeka!
+      
+      </description>
+      
+      <content:encoded><![CDATA[<style>*{white-space:pre;}</style>Nakon poduže stanke, sa veseljem najavljujemo 2. WordPress Meetup Rijeka!]]></content:encoded>
+      
+      
+    </item>
+    
+    <item>
+      <title>2016-11-04 09:30 Inspire Me</title>
+      <link>http://localhost:3000/Rijeka/1478248200000</link>
+      <guid>urn:uuid:b38df691-2dfe-15a7-116f-c8430f40c6f8</guid>
+      <pubDate>Thu, 27 Oct 2016 09:59:39 GMT</pubDate>
+      <description>
+      
+        &lt;b&gt;Inspire Me&lt;/b&gt; predstavlja jedinstvenu konferenciju u kojoj uspješni pojedinci iz različitih područja sa sudionicima dijele svoje ideje, znanja te životna i poslovna iskustva. Konferencija će na jednom mjestu okupiti veliki broj studenata, mladih, poduzetnika, profesionalaca i menadžera koji će se kroz program upoznati s temama vezanim za razvoj karijere, poduzetništvo, inovacije, tehnologiju, motivaciju i uspjeh.
+      
+      </description>
+      
+      <content:encoded><![CDATA[<style>*{white-space:pre;}</style><b>Inspire Me</b> predstavlja jedinstvenu konferenciju u kojoj uspješni pojedinci iz različitih područja sa sudionicima dijele svoje ideje, znanja te životna i poslovna iskustva. Konferencija će na jednom mjestu okupiti veliki broj studenata, mladih, poduzetnika, profesionalaca i menadžera koji će se kroz program upoznati s temama vezanim za razvoj karijere, poduzetništvo, inovacije, tehnologiju, motivaciju i uspjeh.]]></content:encoded>
+      
+      
+    </item>
+    
+  </channel>
+</rss>

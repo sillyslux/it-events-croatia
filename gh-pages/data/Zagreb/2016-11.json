@@ -1,0 +1,38 @@
+[
+  {
+    "city": "Zagreb",
+    "title": "ZgPHP meetup #63",
+    "link": "http://www.meetup.com/Infinum-JS-Talks/events/234497828/",
+    "begin": 1479400200000,
+    "end": null,
+    "address": "Klub Mama, Preradoviceva 18, Zagreb",
+    "map": "https://maps.google.com/maps?f=q&hl=en&q=Preradoviceva+18%2C+Zagreb%2C+hr",
+    "description": "A monthly meetup of PHP developer enthusiasts from Zagreb and region. We started in 2011, now there around 200 members, and we welcome all new members! We have organized sessions & drinkups after throught whole year, except summers when we do only drinkups.",
+    "duration": ""
+  },
+  {
+    "city": "Zagreb",
+    "title": "MS Advanced Technology Days 12",
+    "link": "http://atd.mscommunity.hr/",
+    "begin": 1479312000000,
+    "end": 1479398400000,
+    "address": "Hypo, Slavonska avenija 6/II, Zagreb",
+    "map": "https://goo.gl/maps/NECus3REcVL2",
+    "description": "12. izdanje tradicionalne Mircrosoftove konferencije.",
+    "modified": "2016-10-17T18:44:40.885Z",
+    "created": "2016-10-17T18:44:40.885Z",
+    "duration": "1 day"
+  },
+  {
+    "city": "Zagreb",
+    "title": "Web Camp 2016",
+    "begin": 1477636200000,
+    "end": 1464969600000,
+    "address": "Hypo Expo XXI | Slavonska avenija 6 | Zagreb, Croatia",
+    "map": "https://goo.gl/maps/NECus3REcVL2",
+    "description": "Technology oriented conference for developers & designers",
+    "duration": "3 days",
+    "image": "/img/wczg.png",
+    "meta": "500kn (~€65)"
+  }
+]

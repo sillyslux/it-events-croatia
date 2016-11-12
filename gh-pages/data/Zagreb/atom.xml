@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>IT-Events in Croatia</title>
+  <subtitle>Event Feed for city</subtitle>
+  <link href="undefined" rel="self"/>
+  
+  <link href="http://localhost:3000/"/>
+  <updated>2016-10-12T19:06:15.235Z</updated>
+  <id>http://localhost:3000/</id>
+  
+  <author>
+    <name>sillyslux</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript-Zagreb | Serverless Code Camp Zagreb</title>
+    <link href="http://localhost:3000/Zagreb/1477818000000"/>
+    <id>urn:uuid:66209f25-e3cf-71ea-4b53-bcac9d300454</id>
+    <published>2016-10-12T19:06:15.235Z</published>
+    <updated>2016-10-12T19:06:15.235Z</updated>
+    
+    <content type="html"><![CDATA[WebCamp Zagreb 2016 conference weekend is a great opportunity for us to host a super-special JavaScript event - a workshop which will explore one of the hottest things in the world of software development, AWS lambda serverless infrastructure.
+
+This workshop will guide you through programming for the cloud. You'll learn how to create cloud functions to manage virtual tanks. At the end of the day, there will be a tournament where we'll all engage our virtual tanks in a series of battles, while we'll grab some pizza'n'beer and watch the show.]]></content>
+    
+    <summary type="html">
+      event begin: 1477818000000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Infinum JS Talks #1</title>
+    <link href="http://localhost:3000/Zagreb/1476201600000"/>
+    <id>urn:uuid:be815953-eb62-f2de-7647-485bf78d070d</id>
+    <published>2016-10-12T19:06:15.235Z</published>
+    <updated>2016-10-12T19:06:15.235Z</updated>
+    
+    <content type="html"><![CDATA[Lo and behold - the first ever Infinum JavaScript talks! We are starting with a bang! First talk is by Darko, a JavaScript Team lead at Infinum who loves working on the cutting edge of new technologies. As you would expect, his talk is about features that don't yet exist in the browser. Luka Skukan, on the other hand, is our resident JavaScript overengineer. He'll be talking about patterns and standards that you probably don't even need, but  might find useful.
+
+We have cookies (muffins).]]></content>
+    
+    <summary type="html">
+      event begin: 1476201600000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test event</title>
+    <link href="http://localhost:3000/Zagreb/1478620800000"/>
+    <id>urn:uuid:96bbef53-1464-a8c8-143a-5ea73396e4e4</id>
+    <published>2016-10-11T20:47:15.291Z</published>
+    <updated>2016-10-11T20:47:15.291Z</updated>
+    
+    <content type="html"><![CDATA[some descr]]></content>
+    
+    <summary type="html">
+      event begin: 1478620800000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test event</title>
+    <link href="http://localhost:3000/Zagreb/1478620800000"/>
+    <id>urn:uuid:96bbef53-1464-a8c8-143a-5ea73396e4e4</id>
+    <published>2016-10-11T20:49:40.946Z</published>
+    <updated>2016-10-11T20:49:40.946Z</updated>
+    
+    <content type="html"><![CDATA[some descr]]></content>
+    
+    <summary type="html">
+      event begin: 1478620800000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test event</title>
+    <link href="http://localhost:3000/Zagreb/1478620800000"/>
+    <id>urn:uuid:96bbef53-1464-a8c8-143a-5ea73396e4e4</id>
+    <published>2016-10-12T18:59:02.137Z</published>
+    <updated>2016-10-12T18:59:02.137Z</updated>
+    
+    <content type="html"><![CDATA[some descr]]></content>
+    
+    <summary type="html">
+      event begin: 1478620800000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test event</title>
+    <link href="http://localhost:3000/Zagreb/1478620800000"/>
+    <id>urn:uuid:96bbef53-1464-a8c8-143a-5ea73396e4e4</id>
+    <published>2016-10-12T19:06:15.183Z</published>
+    <updated>2016-10-12T19:06:15.183Z</updated>
+    
+    <content type="html"><![CDATA[some descr]]></content>
+    
+    <summary type="html">
+      event begin: 1478620800000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ZgPHP meetup #63</title>
+    <link href="http://localhost:3000/Zagreb/1479400200000"/>
+    <id>urn:uuid:d042427b-9804-2b58-5dc1-1aac50b1e2a4</id>
+    <published>2016-10-12T19:06:15.241Z</published>
+    <updated>2016-10-12T19:06:15.241Z</updated>
+    
+    <content type="html"><![CDATA[A monthly meetup of PHP developer enthusiasts from Zagreb and region. We started in 2011, now there around 200 members, and we welcome all new members! We have organized sessions & drinkups after throught whole year, except summers when we do only drinkups.]]></content>
+    
+    <summary type="html">
+      event begin: 1479400200000
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

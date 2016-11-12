@@ -1,0 +1,18 @@
+<div>
+  tet
+  <h1>
+tet
+<span>tet</span>
+</h1>
+</div>
+<script src="//jquery.cdn.lan/jquery.js"></script>
+<script>
+  $('span').click((e)=>console.log(e))
+  setTimeout( () => {
+    $(document.body)
+    .find('*')
+    .contents()
+    .filter((i,e)=>e.nodeType===3)
+    .each((i,e) => e.textContent = e.textContent.replace(/\btet\b/,'test'))
+  }, 5000)
+</script>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>IT-Events in Rijeka</title>
+  <subtitle>Event Feed for city Rijeka</subtitle>
+  <link href="undefined" rel="self"/>
+  
+  <link href="http://localhost:3000/"/>
+  <updated>2016-10-27T09:59:40.101Z</updated>
+  <id>http://localhost:3000/</id>
+  
+  <author>
+    <name>sillyslux</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2016-04-11 10:00 Inspire Me</title>
+    <link href="http://localhost:3000/Rijeka/1460361600000"/>
+    <id>urn:uuid:cad1a6d6-e417-88fb-9011-fae34b1aaf8e</id>
+    <published>2016-10-27T09:56:53.759Z</published>
+    <updated>2016-10-27T09:56:53.759Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style><b>Inspire Me</b> predstavlja jedinstvenu konferenciju u kojoj uspješni pojedinci iz različitih područja sa sudionicima dijele svoje ideje, znanja te životna i poslovna iskustva. Konferencija će na jednom mjestu okupiti veliki broj studenata, mladih, poduzetnika, profesionalaca i menadžera koji će se kroz program upoznati s temama vezanim za razvoj karijere, poduzetništvo, inovacije, tehnologiju, motivaciju i uspjeh.]]></content>
+    
+    <summary type="html">
+      event begin: 1460361600000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-10-20 18:00 2. WordPress Meetup Rijeka</title>
+    <link href="http://localhost:3000/Rijeka/1476979200000"/>
+    <id>urn:uuid:7fc62f72-1aab-bd6c-d498-db81b1676f47</id>
+    <published>2016-10-27T09:59:40.102Z</published>
+    <updated>2016-10-27T09:59:40.102Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Nakon poduže stanke, sa veseljem najavljujemo 2. WordPress Meetup Rijeka!]]></content>
+    
+    <summary type="html">
+      event begin: 1476979200000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-04 09:30 Inspire Me</title>
+    <link href="http://localhost:3000/Rijeka/1478248200000"/>
+    <id>urn:uuid:b38df691-2dfe-15a7-116f-c8430f40c6f8</id>
+    <published>2016-10-27T09:59:39.956Z</published>
+    <updated>2016-10-27T09:59:39.956Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style><b>Inspire Me</b> predstavlja jedinstvenu konferenciju u kojoj uspješni pojedinci iz različitih područja sa sudionicima dijele svoje ideje, znanja te životna i poslovna iskustva. Konferencija će na jednom mjestu okupiti veliki broj studenata, mladih, poduzetnika, profesionalaca i menadžera koji će se kroz program upoznati s temama vezanim za razvoj karijere, poduzetništvo, inovacije, tehnologiju, motivaciju i uspjeh.]]></content>
+    
+    <summary type="html">
+      event begin: 1478248200000
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

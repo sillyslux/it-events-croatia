@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>IT-Events in Osijek</title>
+  <subtitle>Event Feed for city Osijek</subtitle>
+  <link href="undefined" rel="self"/>
+  
+  <link href="http://localhost:3000/"/>
+  <updated>2016-10-16T20:51:38.758Z</updated>
+  <id>http://localhost:3000/</id>
+  
+  <author>
+    <name>sillyslux</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2016-10-14 21:00 Digitalni svjetionici – Osijek</title>
+    <link href="http://localhost:3000/Osijek/1476471600000"/>
+    <id>urn:uuid:b70f26be-2619-5593-44dd-d98b2e3742a8</id>
+    <published>2016-10-16T20:51:00.120Z</published>
+    <updated>2016-10-16T20:51:00.120Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Projekt »Digitalni svjetionici« nastavlja s drugim gradom i događanjem / hackathonom nizom radionica, nekonferencijom i performansom MMessy Oscillatorsa 2.0 koje će održati od 14. do 16. listopada u galeriji Inquiry Inc.  organizacije Format C,  te prostorima Zajednice tehničke kulture Osječko-baranjske županije i #labOS hacklaba – sekcije informatičkog kluba “Osijek”. Radionice su besplatne! Prijave na e-mail: valent@otvorenamreza.org]]></content>
+    
+    <summary type="html">
+      event begin: 1476471600000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-10-14 21:00 Digitalni svjetionici – Osijek</title>
+    <link href="http://localhost:3000/Osijek/1476471600000"/>
+    <id>urn:uuid:b70f26be-2619-5593-44dd-d98b2e3742a8</id>
+    <published>2016-10-16T20:51:38.677Z</published>
+    <updated>2016-10-16T20:51:38.677Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Projekt »Digitalni svjetionici« nastavlja s drugim gradom i događanjem / hackathonom nizom radionica, nekonferencijom i performansom MMessy Oscillatorsa 2.0 koje će održati od 14. do 16. listopada u galeriji Inquiry Inc.  organizacije Format C,  te prostorima Zajednice tehničke kulture Osječko-baranjske županije i #labOS hacklaba – sekcije informatičkog kluba “Osijek”. Radionice su besplatne! Prijave na e-mail: valent@otvorenamreza.org]]></content>
+    
+    <summary type="html">
+      event begin: 1476471600000
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

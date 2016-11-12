@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ config.title+city }}</title>
+    <link>{{ config.url | uriencode }}</link>
+    <atom:link href="{{ feed_url | uriencode }}" rel="self" type="application/rss+xml"/>
+    {% if config.feed.hub %}<atom:link href="{{ config.feed.hub | uriencode }}" rel="hub"/>{% endif %}
+    <description>{{ config.subtitle + ' ' + city }}</description>
+    <pubDate>{{ toISOString() }}</pubDate>
+    <generator>http://hexo.io/</generator>
+    {% for event in feedData %}
+    <item>
+      <title>{{ moment(event.begin).format('YYYY-MM-DD HH:mm')+' '+event.title }}</title>
+      <link>{{ (config.url + event.city + '/' + event.begin) | uriencode }}</link>
+      <guid>{{ genUuid(config.url + event.city + '/' + event.begin) | uriencode }}</guid>
+      <pubDate>{{ toGMTString(event.modified) }}</pubDate>
+      <description>
+      {% if event.description %}
+        {{ event.description }}
+      {% elif event.excerpt %}
+        {{ event.excerpt }}
+      {% elif event.content %}
+        {{ event.content.substring(0, 140) }}
+      {% endif %}
+      </description>
+      {% if event.description %}
+      <content:encoded><![CDATA[<style>*{white-space:pre;}</style>{{ event.description | safe }}]]></content:encoded>
+      {% endif %}
+      {% if event.comments %}<comments>{{ (url + event.path) | uriencode }}#disqus_thread</comments>{% endif %}
+    </item>
+    {% endfor %}
+  </channel>
+</rss>

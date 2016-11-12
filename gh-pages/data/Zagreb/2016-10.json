@@ -1,0 +1,48 @@
+[
+  {
+    "city": "Zagreb",
+    "title": "Web Camp 2016",
+    "begin": 1477636200000,
+    "end": 1464969600000,
+    "address": "Hypo Expo XXI | Slavonska avenija 6 | Zagreb, Croatia",
+    "map": "https://maps.google.com/maps?f=q&hl=en&q=Ru%C4%91era+Bo%C5%A1kovi%C4%87a+32%2C+Split%2C+hr",
+    "description": "Technology oriented conference for developers & designers",
+    "duration": "3 days",
+    "image": "/img/wczg.png",
+    "meta": "500kn (~€65)"
+  },
+  {
+    "city": "Zagreb",
+    "title": "Infinum JS Talks #1",
+    "link": "http://www.meetup.com/Infinum-JS-Talks/events/234497828/",
+    "begin": 1476201600000,
+    "end": null,
+    "address": "Infinum HQ, Strojarska 22, Zagreb",
+    "map": "https://maps.google.com/maps?f=q&hl=en&q=Strojarska+22%2C+Zagreb%2C+hr",
+    "description": "Lo and behold - the first ever Infinum JavaScript talks! We are starting with a bang! First talk is by Darko, a JavaScript Team lead at Infinum who loves working on the cutting edge of new technologies. As you would expect, his talk is about features that don't yet exist in the browser. Luka Skukan, on the other hand, is our resident JavaScript overengineer. He'll be talking about patterns and standards that you probably don't even need, but  might find useful.\r\n\r\nWe have cookies (muffins).",
+    "duration": "48hrs"
+  },
+  {
+    "city": "Zagreb",
+    "title": "C# Coding for women",
+    "link": "http://zipzg.com/prijave-za-novi-ciklus-radionica-programiranja-koje-zip-besplatno-organizira-za-zene/",
+    "begin": 1477206000000,
+    "end": "",
+    "address": "Poduzetnički inkubator ZIP d.o.o., Remetinečka cesta 7, 10000 Zagreb",
+    "map": "https://goo.gl/maps/cccSsp53GVN2",
+    "description": "Coding for women tečaj će osigurati polaznicama upoznavanje s osnovama objektno orijentiranog programiranja, osnovama programiranja u C#-u te izradom jednostavnih konzolnih aplikacija.",
+    "modified": "2016-10-14T17:07:56.529Z",
+    "created": "2016-10-14T17:07:56.529Z"
+  },
+  {
+    "city": "Zagreb",
+    "title": "JavaScript-Zagreb | Serverless Code Camp Zagreb",
+    "link": "http://www.meetup.com/JavaScript-Zagreb/events/234643876/",
+    "begin": 1477818000000,
+    "end": null,
+    "address": "This location is shown only to members",
+    "map": "",
+    "description": "WebCamp Zagreb 2016 conference weekend is a great opportunity for us to host a super-special JavaScript event - a workshop which will explore one of the hottest things in the world of software development, AWS lambda serverless infrastructure.\r\n\r\nThis workshop will guide you through programming for the cloud. You'll learn how to create cloud functions to manage virtual tanks. At the end of the day, there will be a tournament where we'll all engage our virtual tanks in a series of battles, while we'll grab some pizza'n'beer and watch the show.",
+    "duration": "48hrs"
+  }
+]

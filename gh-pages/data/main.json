@@ -1,0 +1,68 @@
+{
+  "availableCities": {
+    "Osijek": [
+      "2016-10"
+    ],
+    "Rijeka": [
+      "2016-04",
+      "2016-10",
+      "2016-11"
+    ],
+    "Slavonski Brod": [],
+    "Split": [
+      "2016-10",
+      "2016-11",
+      "2016-12"
+    ],
+    "Varaždin": [
+      "2016-11"
+    ],
+    "Zagreb": [
+      "2016-10",
+      "2016-11"
+    ]
+  },
+  "majorEvents": [
+    {
+      "city": "Rijeka",
+      "title": "Inspire Me",
+      "link": "http://inspiremekonferencija.com/",
+      "begin": 1478248200000,
+      "end": 1478283300000,
+      "address": "EFRI, Ul. Ivana Filipovića 4, 51000 Rijeka",
+      "map": "https://goo.gl/maps/4K8ANS7SUZ12",
+      "description": "Inspire Me predstavlja jedinstvenu konferenciju u kojoj uspješni pojedinci iz različitih područja sa sudionicima dijele svoje ideje, znanja te životna i poslovna iskustva. Konferencija će na jednom mjestu okupiti veliki broj studenata, mladih, poduzetnika, profesionalaca i menadžera koji će se kroz program upoznati s temama vezanim za razvoj karijere, poduzetništvo, inovacije, tehnologiju, motivaciju i uspjeh.",
+      "modified": "2016-10-27T09:59:39.956Z",
+      "created": "2016-10-27T09:59:39.956Z",
+      "image": "/img/inspireme_rijeka.png",
+      "duration": "1 day",
+      "meta": "85kn / 55kn"
+    },
+    {
+      "city": "Zagreb",
+      "title": "Web Camp 2016",
+      "begin": 1477636200000,
+      "end": 1464969600000,
+      "address": "Hypo Expo XXI | Slavonska avenija 6 | Zagreb, Croatia",
+      "map": "https://maps.google.com/maps?f=q&hl=en&q=Ru%C4%91era+Bo%C5%A1kovi%C4%87a+32%2C+Split%2C+hr",
+      "description": "Technology oriented conference for developers & designers",
+      "duration": "3 days",
+      "image": "/img/wczg.png",
+      "meta": "500kn (~€65)"
+    },
+    {
+      "city": "Zagreb",
+      "title": "MS Advanced Technology Days 12",
+      "link": "http://atd.mscommunity.hr/",
+      "begin": 1479312000000,
+      "end": 1479398400000,
+      "address": "Hypo, Slavonska avenija 6/II, Zagreb",
+      "map": "https://goo.gl/maps/NECus3REcVL2",
+      "description": "12. izdanje tradicionalne Mircrosoftove konferencije.",
+      "image": "/img/atd2.png",
+      "modified": "2016-10-17T18:44:40.885Z",
+      "created": "2016-10-17T18:44:40.885Z",
+      "duration": "1 day"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>IT-Events in Zagreb</title>
+  <subtitle>Event Feed for city Zagreb</subtitle>
+  <link href="undefined" rel="self"/>
+  
+  <link href="http://localhost:3000/"/>
+  <updated>2016-10-17T18:44:40.940Z</updated>
+  <id>http://localhost:3000/</id>
+  
+  <author>
+    <name>sillyslux</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2016-10-11 18:00 Infinum JS Talks #1</title>
+    <link href="http://localhost:3000/Zagreb/1476201600000"/>
+    <id>urn:uuid:be815953-eb62-f2de-7647-485bf78d070d</id>
+    <published>2016-10-17T18:44:40.940Z</published>
+    <updated>2016-10-17T18:44:40.941Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Lo and behold - the first ever Infinum JavaScript talks! We are starting with a bang! First talk is by Darko, a JavaScript Team lead at Infinum who loves working on the cutting edge of new technologies. As you would expect, his talk is about features that don't yet exist in the browser. Luka Skukan, on the other hand, is our resident JavaScript overengineer. He'll be talking about patterns and standards that you probably don't even need, but  might find useful.
+
+We have cookies (muffins).]]></content>
+    
+    <summary type="html">
+      event begin: 1476201600000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-10-23 09:00 C# Coding for women</title>
+    <link href="http://localhost:3000/Zagreb/1477206000000"/>
+    <id>urn:uuid:e0fa595d-f282-d148-dabc-0ebf783907fc</id>
+    <published>2016-10-14T17:07:56.529Z</published>
+    <updated>2016-10-14T17:07:56.529Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Coding for women tečaj će osigurati polaznicama upoznavanje s osnovama objektno orijentiranog programiranja, osnovama programiranja u C#-u te izradom jednostavnih konzolnih aplikacija.]]></content>
+    
+    <summary type="html">
+      event begin: 1477206000000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-10-30 10:00 JavaScript-Zagreb | Serverless Code Camp Zagreb</title>
+    <link href="http://localhost:3000/Zagreb/1477818000000"/>
+    <id>urn:uuid:66209f25-e3cf-71ea-4b53-bcac9d300454</id>
+    <published>2016-10-17T18:44:40.941Z</published>
+    <updated>2016-10-17T18:44:40.941Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>WebCamp Zagreb 2016 conference weekend is a great opportunity for us to host a super-special JavaScript event - a workshop which will explore one of the hottest things in the world of software development, AWS lambda serverless infrastructure.
+
+This workshop will guide you through programming for the cloud. You'll learn how to create cloud functions to manage virtual tanks. At the end of the day, there will be a tournament where we'll all engage our virtual tanks in a series of battles, while we'll grab some pizza'n'beer and watch the show.]]></content>
+    
+    <summary type="html">
+      event begin: 1477818000000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-17 17:30 ZgPHP meetup #63</title>
+    <link href="http://localhost:3000/Zagreb/1479400200000"/>
+    <id>urn:uuid:d042427b-9804-2b58-5dc1-1aac50b1e2a4</id>
+    <published>2016-10-17T18:44:40.941Z</published>
+    <updated>2016-10-17T18:44:40.941Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>A monthly meetup of PHP developer enthusiasts from Zagreb and region. We started in 2011, now there around 200 members, and we welcome all new members! We have organized sessions & drinkups after throught whole year, except summers when we do only drinkups.]]></content>
+    
+    <summary type="html">
+      event begin: 1479400200000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-16 17:00 MS Advanced Technology Days 12</title>
+    <link href="http://localhost:3000/Zagreb/1479312000000"/>
+    <id>urn:uuid:87d64f8f-b7db-2be0-2063-aac21cff9d26</id>
+    <published>2016-10-17T18:44:40.885Z</published>
+    <updated>2016-10-17T18:44:40.885Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>12. izdanje tradicionalne Mircrosoftove konferencije.]]></content>
+    
+    <summary type="html">
+      event begin: 1479312000000
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

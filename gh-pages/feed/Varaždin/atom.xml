@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>IT-Events in Varaždin</title>
+  <subtitle>Event Feed for city Varaždin</subtitle>
+  <link href="undefined" rel="self"/>
+  
+  <link href="http://localhost:3000/"/>
+  <updated>2016-10-25T09:53:35.684Z</updated>
+  <id>http://localhost:3000/</id>
+  
+  <author>
+    <name>sillyslux</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2016-11-26 08:00 RSC!Hackathon </title>
+    <link href="http://localhost:3000/Vara%C5%BEdin/1480143600000"/>
+    <id>urn:uuid:1f9d9b7e-026b-db4f-1468-af9fd6e1800e</id>
+    <published>2016-10-25T09:53:35.476Z</published>
+    <updated>2016-10-25T09:53:35.476Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Ready, steady, code! is a student competition where competitors display knowledge and skills developing a software product. The competition lasts intensive 24h during which participants solve given problem. Solution is presented to the jury of industry and academic experts.]]></content>
+    
+    <summary type="html">
+      event begin: 1480143600000
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

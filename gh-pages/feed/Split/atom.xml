@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>IT-Events in Split</title>
+  <subtitle>Event Feed for city Split</subtitle>
+  <link href="undefined" rel="self"/>
+  
+  <link href="http://localhost:3000/"/>
+  <updated>2016-10-17T18:23:47.244Z</updated>
+  <id>http://localhost:3000/</id>
+  
+  <author>
+    <name>sillyslux</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2016-10-10 18:00 Mobile Monday Split - Unity Multiplayer</title>
+    <link href="http://localhost:3000/Split/1476115200000"/>
+    <id>urn:uuid:e881ad55-ff09-3e75-cec6-591853e10f91</id>
+    <published>2016-10-17T18:23:47.251Z</published>
+    <updated>2016-10-17T18:23:47.251Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>It is time for Mobile Monday #34! After short break, Petar Kekez from IT Sistemi - Nove Tehnologije will introduce us with Unity Multiplayer.
+After the presentation, as usual, is networking, the relaxing atmosphere with exchange of ideas and experiences.]]></content>
+    
+    <summary type="html">
+      event begin: 1476115200000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-10-15 18:30 OpenCoffee Split October Meetup</title>
+    <link href="http://localhost:3000/Split/1476549000000"/>
+    <id>urn:uuid:fbc6ca60-5375-6d1c-c7a0-ea9d0f457dd7</id>
+    <published>2016-10-17T18:23:47.254Z</published>
+    <updated>2016-10-17T18:23:47.254Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Open Coffee Split je grupa neformalnog karaktera nastala s ciljem okupljanja ljudi slicnih interesa vezanih uz IT industriju.]]></content>
+    
+    <summary type="html">
+      event begin: 1476549000000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-10-17 09:00 EFW Free co-working week</title>
+    <link href="http://localhost:3000/Split/1476687600000"/>
+    <id>urn:uuid:34702588-b783-dd6f-ff3a-92230cbcb6ae</id>
+    <published>2016-10-17T18:23:47.254Z</published>
+    <updated>2016-10-17T18:23:47.254Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Wellcome to Amosfera and work from our coworking space for free throughout the whole of European Freelancer's Week.
+
+#EFW16 http://freelancersweek.org/]]></content>
+    
+    <summary type="html">
+      event begin: 1476687600000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-10-17 19:00 EFW How I became a successful freelancer</title>
+    <link href="http://localhost:3000/Split/1476723600000"/>
+    <id>urn:uuid:459f4e15-333a-15cb-40ef-482cd195be09</id>
+    <published>2016-10-17T18:23:47.262Z</published>
+    <updated>2016-10-17T18:23:47.262Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Originally from Jamaica, but now living in Split, 3D artist and designer Shawn Mitford, CEO of Mitviz, will tell us the story of his life and how his freelancing has taken him around the world, allowed him to work with some of the most well-known companies and on many interesting projects.
+
+#EFW16 http://freelancersweek.org/]]></content>
+    
+    <summary type="html">
+      event begin: 1476723600000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-10-18 19:00  EFW Freelancer Meetup</title>
+    <link href="http://localhost:3000/Split/1476810000000"/>
+    <id>urn:uuid:f41d0dfe-ea1e-9d11-e0b0-c0e1c588e868</id>
+    <published>2016-10-17T18:23:47.262Z</published>
+    <updated>2016-10-17T18:23:47.263Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Are you a freelancer? Do you want to be a freelancer? Do you need a freelancer to work on a project?
+Come to our freelancer meetup where you can network with other freelancers, find out their tricks of the trade, work with one another and see what other opportunities are out there.
+
+#EFW16 http://freelancersweek.org/]]></content>
+    
+    <summary type="html">
+      event begin: 1476810000000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-10-19 12:00 Internetom do gostiju</title>
+    <link href="http://localhost:3000/Split/1476871200000"/>
+    <id>urn:uuid:a4153d31-9ae6-1c39-7248-a9e17b07fa97</id>
+    <published>2016-10-14T04:10:02.637Z</published>
+    <updated>2016-10-14T04:10:02.637Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>1. Turistička web stranica
+Turistička zajednica Splitsko-dalmatinske županije organizira u suradnji s agencijom AdProfis ciklus edukacija s ciljem povećanja prodaje turističkih proizvoda uz pomoć Internet marketinga. Edukacije, koje će se održavati u hotelu Park, su namijenjene turističkim agencijama i malim hotelijerima, a sudjelovanje je besplatno.]]></content>
+    
+    <summary type="html">
+      event begin: 1476871200000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-10-21 17:00 3. WordPress Meetup Split</title>
+    <link href="http://localhost:3000/Split/1477062000000"/>
+    <id>urn:uuid:863ea01a-0925-ec84-be72-b4b1e064f672</id>
+    <published>2016-10-17T18:23:47.263Z</published>
+    <updated>2016-10-17T18:23:47.263Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Nakon uspješno održanog WordCampa u Splitu, nastavljaju se redoviti WordPress Meetupi u Splitu. ]]></content>
+    
+    <summary type="html">
+      event begin: 1477062000000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-10-22 17:00 DUMP - Škola osnova programiranja 2016 C++</title>
+    <link href="http://localhost:3000/Split/1477148400000"/>
+    <id>urn:uuid:261e168c-3044-38fa-e3b8-bc623308156c</id>
+    <published>2016-10-14T03:24:38.783Z</published>
+    <updated>2016-10-14T03:24:38.783Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>1. Varijable, ulaz i izlaz]]></content>
+    
+    <summary type="html">
+      event begin: 1477148400000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-10-26 12:00 Internetom do gostiju</title>
+    <link href="http://localhost:3000/Split/1477476000000"/>
+    <id>urn:uuid:b997c9cc-aa6e-af4a-523b-bf89b1646c33</id>
+    <published>2016-10-14T04:10:45.230Z</published>
+    <updated>2016-10-14T04:10:45.230Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>2. SEO optimizacija
+Turistička zajednica Splitsko-dalmatinske županije organizira u suradnji s agencijom AdProfis ciklus edukacija s ciljem povećanja prodaje turističkih proizvoda uz pomoć Internet marketinga. Edukacije, koje će se održavati u hotelu Park, su namijenjene turističkim agencijama i malim hotelijerima, a sudjelovanje je besplatno.]]></content>
+    
+    <summary type="html">
+      event begin: 1477476000000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-10-29 17:00 DUMP - Škola osnova programiranja 2016 C++</title>
+    <link href="http://localhost:3000/Split/1477753200000"/>
+    <id>urn:uuid:3131e2bc-27ad-c2f7-d1fb-58659ff0b3c4</id>
+    <published>2016-10-14T03:26:14.118Z</published>
+    <updated>2016-10-14T03:26:14.118Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>2. Kontrola toka]]></content>
+    
+    <summary type="html">
+      event begin: 1477753200000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-02 12:00 Internetom do gostiju</title>
+    <link href="http://localhost:3000/Split/1478084400000"/>
+    <id>urn:uuid:b77ebecd-a8b6-61a1-3994-ab68fc2861e7</id>
+    <published>2016-10-14T04:12:58.551Z</published>
+    <updated>2016-10-14T04:12:58.551Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>3. Google AdWords
+Turistička zajednica Splitsko-dalmatinske županije organizira u suradnji s agencijom AdProfis ciklus edukacija s ciljem povećanja prodaje turističkih proizvoda uz pomoć Internet marketinga. Edukacije, koje će se održavati u hotelu Park, su namijenjene turističkim agencijama i malim hotelijerima, a sudjelovanje je besplatno.]]></content>
+    
+    <summary type="html">
+      event begin: 1478084400000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-05 17:00 DUMP - Škola osnova programiranja 2016 C++</title>
+    <link href="http://localhost:3000/Split/1478361600000"/>
+    <id>urn:uuid:a097ba1d-3e11-d6a9-dd52-a82859fd8fba</id>
+    <published>2016-10-14T03:57:21.804Z</published>
+    <updated>2016-10-14T03:57:21.804Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>3. Kolekcije i petlje]]></content>
+    
+    <summary type="html">
+      event begin: 1478361600000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-09 12:00 Internetom do gostiju</title>
+    <link href="http://localhost:3000/Split/1478689200000"/>
+    <id>urn:uuid:a622f9f6-01d5-a861-418c-6dc0c4c3ac5d</id>
+    <published>2016-10-14T04:14:49.510Z</published>
+    <updated>2016-10-14T04:14:49.510Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>4. Portali za oglašavanje
+Turistička zajednica Splitsko-dalmatinske županije organizira u suradnji s agencijom AdProfis ciklus edukacija s ciljem povećanja prodaje turističkih proizvoda uz pomoć Internet marketinga. Edukacije, koje će se održavati u hotelu Park, su namijenjene turističkim agencijama i malim hotelijerima, a sudjelovanje je besplatno.]]></content>
+    
+    <summary type="html">
+      event begin: 1478689200000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-12 17:00 DUMP - Škola osnova programiranja 2016 C++</title>
+    <link href="http://localhost:3000/Split/1478966400000"/>
+    <id>urn:uuid:46509d62-4166-428c-55c0-ef5a81e13462</id>
+    <published>2016-10-14T03:57:07.310Z</published>
+    <updated>2016-10-14T03:57:07.310Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>4. Funkcije]]></content>
+    
+    <summary type="html">
+      event begin: 1478966400000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-16 12:00 Internetom do gostiju</title>
+    <link href="http://localhost:3000/Split/1479294000000"/>
+    <id>urn:uuid:fd860c76-12f0-1c6e-e24d-d7949660c866</id>
+    <published>2016-10-14T04:19:11.613Z</published>
+    <updated>2016-10-14T04:19:11.613Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>5. Društvene mreže
+Turistička zajednica Splitsko-dalmatinske županije organizira u suradnji s agencijom AdProfis ciklus edukacija s ciljem povećanja prodaje turističkih proizvoda uz pomoć Internet marketinga. Edukacije, koje će se održavati u hotelu Park, su namijenjene turističkim agencijama i malim hotelijerima, a sudjelovanje je besplatno.]]></content>
+    
+    <summary type="html">
+      event begin: 1479294000000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-23 12:00 Internetom do gostiju</title>
+    <link href="http://localhost:3000/Split/1479898800000"/>
+    <id>urn:uuid:2d8141e5-ebe5-5eeb-d449-0a7e5d42cdd7</id>
+    <published>2016-10-14T04:22:41.062Z</published>
+    <updated>2016-10-14T04:22:41.062Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>6. Email marketing
+Turistička zajednica Splitsko-dalmatinske županije organizira u suradnji s agencijom AdProfis ciklus edukacija s ciljem povećanja prodaje turističkih proizvoda uz pomoć Internet marketinga. Edukacije, koje će se održavati u hotelu Park, su namijenjene turističkim agencijama i malim hotelijerima, a sudjelovanje je besplatno.]]></content>
+    
+    <summary type="html">
+      event begin: 1479898800000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-30 12:00 Internetom do gostiju</title>
+    <link href="http://localhost:3000/Split/1480503600000"/>
+    <id>urn:uuid:40e769a9-218e-45f8-1f8a-dfe2794f7518</id>
+    <published>2016-10-14T04:26:06.089Z</published>
+    <updated>2016-10-14T04:26:06.089Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>7. Mobilno oglašavanje
+Turistička zajednica Splitsko-dalmatinske županije organizira u suradnji s agencijom AdProfis ciklus edukacija s ciljem povećanja prodaje turističkih proizvoda uz pomoć Internet marketinga. Edukacije, koje će se održavati u hotelu Park, su namijenjene turističkim agencijama i malim hotelijerima, a sudjelovanje je besplatno.]]></content>
+    
+    <summary type="html">
+      event begin: 1480503600000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-12 17:00 Open Coffee Split November Meetup</title>
+    <link href="http://localhost:3000/Split/1478966400001"/>
+    <id>urn:uuid:e62c4bd7-7c11-e033-7bc8-2868afe888c2</id>
+    <published>2016-10-17T09:36:17.908Z</published>
+    <updated>2016-10-17T09:36:17.908Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Open Coffee Split je grupa neformalnog karaktera nastala s ciljem okupljanja ljudi slicnih interesa vezanih uz IT industriju.]]></content>
+    
+    <summary type="html">
+      event begin: 1478966400001
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-12-07 12:00 Internetom do gostiju</title>
+    <link href="http://localhost:3000/Split/1481108400000"/>
+    <id>urn:uuid:f71965ac-9def-9825-3282-355527927829</id>
+    <published>2016-10-14T11:27:11.338Z</published>
+    <updated>2016-10-14T11:27:11.338Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>8. Praćenje rezultata – Google Analytics. 
+
+Turistička zajednica Splitsko-dalmatinske županije organizira u suradnji s agencijom AdProfis ciklus edukacija s ciljem povećanja prodaje turističkih proizvoda uz pomoć Internet marketinga. Edukacije, koje će se održavati u hotelu Park, su namijenjene turističkim agencijama i malim hotelijerima, a sudjelovanje je besplatno. <a href='http://www.dalmatia.hr/hr/priopcenja/edukacijski-projekt-internetom-do-gostiju-za-agencije-i-male-hotelijere'>http://www.dalmatia.hr/hr/priopcenja/edukacijski-projekt-internetom-do-gostiju-za-agencije-i-male-hotelijere</a>]]></content>
+    
+    <summary type="html">
+      event begin: 1481108400000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-12 17:00 Open Coffee Split November Meetup</title>
+    <link href="http://localhost:3000/Split/1478966400000"/>
+    <id>urn:uuid:46509d62-4166-428c-55c0-ef5a81e13462</id>
+    <published>2016-10-17T09:36:17.908Z</published>
+    <updated>2016-10-17T09:36:17.908Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Open Coffee Split je grupa neformalnog karaktera nastala s ciljem okupljanja ljudi slicnih interesa vezanih uz IT industriju.]]></content>
+    
+    <summary type="html">
+      event begin: 1478966400000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-12 17:00 Open Coffee Split November Meetup</title>
+    <link href="http://localhost:3000/Split/1478966400000"/>
+    <id>urn:uuid:46509d62-4166-428c-55c0-ef5a81e13462</id>
+    <published>2016-10-17T18:19:27.145Z</published>
+    <updated>2016-10-17T18:19:27.145Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Open Coffee Split je grupa neformalnog karaktera nastala s ciljem okupljanja ljudi slicnih interesa vezanih uz IT industriju.]]></content>
+    
+    <summary type="html">
+      event begin: 1478966400000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-12 17:00 Open Coffee Split November Meetup</title>
+    <link href="http://localhost:3000/Split/1478966400000"/>
+    <id>urn:uuid:46509d62-4166-428c-55c0-ef5a81e13462</id>
+    <published>2016-10-17T18:19:44.881Z</published>
+    <updated>2016-10-17T18:19:44.881Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Open Coffee Split je grupa neformalnog karaktera nastala s ciljem okupljanja ljudi slicnih interesa vezanih uz IT industriju.]]></content>
+    
+    <summary type="html">
+      event begin: 1478966400000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-12 17:00 Open Coffee Split November Meetup</title>
+    <link href="http://localhost:3000/Split/1478966400000"/>
+    <id>urn:uuid:46509d62-4166-428c-55c0-ef5a81e13462</id>
+    <published>2016-10-17T18:20:00.642Z</published>
+    <updated>2016-10-17T18:20:00.642Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Open Coffee Split je grupa neformalnog karaktera nastala s ciljem okupljanja ljudi slicnih interesa vezanih uz IT industriju.]]></content>
+    
+    <summary type="html">
+      event begin: 1478966400000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-12 17:00 Open Coffee Split November Meetup</title>
+    <link href="http://localhost:3000/Split/1478966400000"/>
+    <id>urn:uuid:46509d62-4166-428c-55c0-ef5a81e13462</id>
+    <published>2016-10-17T18:20:26.880Z</published>
+    <updated>2016-10-17T18:20:26.880Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Open Coffee Split je grupa neformalnog karaktera nastala s ciljem okupljanja ljudi slicnih interesa vezanih uz IT industriju.]]></content>
+    
+    <summary type="html">
+      event begin: 1478966400000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-12 17:00 Open Coffee Split November Meetup</title>
+    <link href="http://localhost:3000/Split/1478966400000"/>
+    <id>urn:uuid:46509d62-4166-428c-55c0-ef5a81e13462</id>
+    <published>2016-10-17T18:20:43.314Z</published>
+    <updated>2016-10-17T18:20:43.314Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Open Coffee Split je grupa neformalnog karaktera nastala s ciljem okupljanja ljudi slicnih interesa vezanih uz IT industriju.]]></content>
+    
+    <summary type="html">
+      event begin: 1478966400000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-12 17:00 Open Coffee Split November Meetup</title>
+    <link href="http://localhost:3000/Split/1478966400000"/>
+    <id>urn:uuid:46509d62-4166-428c-55c0-ef5a81e13462</id>
+    <published>2016-10-17T18:22:50.138Z</published>
+    <updated>2016-10-17T18:22:50.138Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Open Coffee Split je grupa neformalnog karaktera nastala s ciljem okupljanja ljudi slicnih interesa vezanih uz IT industriju.]]></content>
+    
+    <summary type="html">
+      event begin: 1478966400000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-12 17:00 Open Coffee Split November Meetup</title>
+    <link href="http://localhost:3000/Split/1478966400000"/>
+    <id>urn:uuid:46509d62-4166-428c-55c0-ef5a81e13462</id>
+    <published>2016-10-17T18:22:53.923Z</published>
+    <updated>2016-10-17T18:22:53.923Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Open Coffee Split je grupa neformalnog karaktera nastala s ciljem okupljanja ljudi slicnih interesa vezanih uz IT industriju.]]></content>
+    
+    <summary type="html">
+      event begin: 1478966400000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-12 17:00 Open Coffee Split November Meetup</title>
+    <link href="http://localhost:3000/Split/1478966400000"/>
+    <id>urn:uuid:46509d62-4166-428c-55c0-ef5a81e13462</id>
+    <published>2016-10-17T18:23:03.771Z</published>
+    <updated>2016-10-17T18:23:03.771Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Open Coffee Split je grupa neformalnog karaktera nastala s ciljem okupljanja ljudi slicnih interesa vezanih uz IT industriju.]]></content>
+    
+    <summary type="html">
+      event begin: 1478966400000
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-11-12 17:00 Open Coffee Split November Meetup</title>
+    <link href="http://localhost:3000/Split/1478966400000"/>
+    <id>urn:uuid:46509d62-4166-428c-55c0-ef5a81e13462</id>
+    <published>2016-10-17T18:23:47.085Z</published>
+    <updated>2016-10-17T18:23:47.085Z</updated>
+    
+    <content type="html"><![CDATA[<style>*{white-space:pre;}</style>Open Coffee Split je grupa neformalnog karaktera nastala s ciljem okupljanja ljudi slicnih interesa vezanih uz IT industriju.]]></content>
+    
+    <summary type="html">
+      event begin: 1478966400000
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

@@ -1,0 +1,17 @@
+[
+  {
+    "city": "Rijeka",
+    "title": "Inspire Me",
+    "link": "http://inspiremekonferencija.com/",
+    "begin": 1478248200000,
+    "end": 1478283300000,
+    "address": "EFRI, Ul. Ivana Filipovića 4, 51000 Rijeka",
+    "map": "https://goo.gl/maps/4K8ANS7SUZ12",
+    "description": "Inspire Me predstavlja jedinstvenu konferenciju u kojoj uspješni pojedinci iz različitih područja sa sudionicima dijele svoje ideje, znanja te životna i poslovna iskustva. Konferencija će na jednom mjestu okupiti veliki broj studenata, mladih, poduzetnika, profesionalaca i menadžera koji će se kroz program upoznati s temama vezanim za razvoj karijere, poduzetništvo, inovacije, tehnologiju, motivaciju i uspjeh.",
+    "modified": "2016-10-27T09:59:39.956Z",
+    "created": "2016-10-27T09:59:39.956Z",
+    "image": "/img/inspireme_rijeka.png",
+    "duration": "1 day",
+    "meta": "85kn / 55kn"
+  }
+]
